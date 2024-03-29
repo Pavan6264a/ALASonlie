@@ -29,7 +29,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 ‣ ‣ᴜᴘɪ ɪᴅ : 919446337938@paytm
 
-‣ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠ : <a href='http://t.me/My_Name_is_developer'>ᴄᴜʟᴘʀɪᴛ</a> 
+‣ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠ : <a href='http://t.me/My_Name_is_developer'>Abhishek</a> 
 
          » Qʀ ᴄᴏᴅᴇ ᴀʟꜱᴏ ᴀᴠᴀɪʟᴀʙᴇ ɪɴ ᴀʙᴏᴠᴇ ɪᴍᴀɢᴇ «
 
@@ -57,9 +57,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/TeamHMT_Bots)</code>
+<code>[Button Text](buttonurl:https://t.me/ALASSUPORT)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
+<code>[Button Text](buttonalert:https://t.me/ALASSUPORT)</code>"""
 
     AUTOFILTER_TXT = """ʜᴇʟᴘ: <b>ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ</b>
 <b>ɴᴏᴛᴇ: Fɪʟᴇ Iɴᴅᴇx</b>
@@ -86,9 +86,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=http://t.me/Culprit_003>🥷</a></b>
+ <b>✯ Maintained by : <a href=http://t.me/My_Name_is_developer>🥷</a>Abhishek</b>
   
- <b>✯ Join here : <a href=https://t.me/new_tamil_movies_hd_1>UPDATES</a></b> 
+ <b>✯ Join here : <a href=https://t.me/ALAS_UPDATE>UPDATES</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
