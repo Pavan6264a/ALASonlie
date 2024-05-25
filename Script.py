@@ -13,7 +13,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     ABOUT_TXT = """<b>⍟───[ ᴍʏ ᴅᴇᴛᴀɪʟꜱ ]───⍟
  ‣ ᴍʏ ɴᴀᴍᴇ : ᴍɪɴᴀᴛᴏ ɴᴀᴍɪᴋᴀᴢᴇ
  ‣ ᴍʏ ʙᴇꜱᴛ ꜰʀɪᴇɴᴅ: <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='http://t.me/My_Name_is_developer'>Abhishek sir 😁</a> 
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/AboutPKR'>Pavan 😁</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -27,9 +27,9 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 ᴀɴʏ ᴀᴍᴏᴜᴛ ᴍᴀᴋᴇꜱ ᴀ ʜᴜɢᴇ ᴅɪꜰꜰᴇʀᴇɴᴄᴇ🤜
 
-‣ ‣ᴜᴘɪ ɪᴅ : devloped@kotak
+‣ ‣ᴜᴘɪ ɪᴅ : 89190256@ybl
 
-‣ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠ : <a href='http://t.me/My_Name_is_developer'>Abhishek</a> 
+‣ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠ : <a href='https://t.me/AboutPKR'>pavan</a> 
 
          » Qʀ ᴄᴏᴅᴇ ᴀʟꜱᴏ ᴀᴠᴀɪʟᴀʙᴇ ɪɴ ᴀʙᴏᴠᴇ ɪᴍᴀɢᴇ «
 
@@ -57,9 +57,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/ALASSUPORT)</code>
+<code>[Button Text](buttonurl:https://t.me/NF_FILES)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonalert:https://t.me/ALASSUPORT)</code>"""
+<code>[Button Text](buttonalert:https://t.me/NF_FILES)</code>"""
 
     AUTOFILTER_TXT = """ʜᴇʟᴘ: <b>ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ</b>
 <b>ɴᴏᴛᴇ: Fɪʟᴇ Iɴᴅᴇx</b>
@@ -86,9 +86,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=http://t.me/My_Name_is_developer>🥷</a>Abhishek</b>
+ <b>✯ Maintained by : <a href=https://t.me/AboutPKR>🥷</a>pavan</b>
   
- <b>✯ Join here : <a href=https://t.me/ALAS_UPDATE>UPDATES</a></b> 
+ <b>✯ Join here : <a href=https://t.me/nf_files>UPDATES</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -194,7 +194,7 @@ Nᴀᴍᴇ - {}"""
 
 12 ᴍᴏɴᴛʜꜱ - ₹170
 
-•ᴜᴘɪ ɪᴅ : devloped@kotak
+•ᴜᴘɪ ɪᴅ : 89190256@ybl
 
 •ꜰᴏʀ Qʀ ᴄᴏᴅᴇ : Qʀ ᴄᴏᴅᴇ ɪꜱ ɪɴ ᴛᴏᴘ ɪᴍᴀɢᴇ
 
@@ -206,7 +206,7 @@ Nᴀᴍᴇ - {}"""
 
 ꜱᴛᴇᴘ 2 : ꜱᴄᴀɴ ᴛʜᴇ Qʀ ᴄᴏᴅᴇ ᴏʀ ᴜꜱɪɴɢ ᴜᴘɪ ɪᴅ ᴘᴀʏ ᴊᴜꜱᴛ ᴍᴏɴᴇʏ ᴅᴇᴘᴇɴᴅꜱ ᴏɴ ʏᴏᴜʀ ᴘʟᴀɴ.
 
-ꜱᴛᴇᴘ 3 : ꜱᴇɴᴛ ꜱᴄʀᴇᴇɴ ꜱʜᴏᴛ ᴛᴏ <a href=http://t.me/My_Name_is_developer> ᴄᴜʟᴘʀɪᴛ </a>
+ꜱᴛᴇᴘ 3 : ꜱᴇɴᴛ ꜱᴄʀᴇᴇɴ ꜱʜᴏᴛ ᴛᴏ <a href=https://t.me/AboutPKR> ᴄᴜʟᴘʀɪᴛ </a>
 ᴏʀ ᴄʟɪᴄᴋ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ᴛᴏ ꜱᴇɴᴛ ꜱᴄʀᴇᴇɴ ꜱʜᴏᴛ.
 
 
@@ -319,6 +319,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
   
  ᴇxᴀᴍᴩʟᴇ: /𝗍𝗋 ᴍʟ 
  • ᴇɴ = ᴇɴɢʟɪꜱʜ 
+ • tl = Telugu 
  • ᴍʟ = ᴍᴀʟᴀyᴀʟᴀᴍ 
  • ʜɪ = ʜɪɴᴅɪ</b>""" 
   
