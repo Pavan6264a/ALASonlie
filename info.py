@@ -46,7 +46,7 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://PostFinderbot:PostFinderbot@cluster9.gcj9754.mongodb.net/?retryWrites=true&w=majority&appName=Cluster9")
 DATABASE_NAME = environ.get('DATABASE_NAME', "cluster9")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'NF_files')
 
 # Premium And Referal Settings
 PREMIUM_AND_REFERAL_MODE = bool(environ.get('PREMIUM_AND_REFERAL_MODE', True)) # Set Ture Or False
