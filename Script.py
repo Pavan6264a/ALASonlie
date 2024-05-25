@@ -466,8 +466,8 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
-    LOGO = """@ALAS_NOW @ALAS_NOW @ALAS_NOW @ALAS_NOW @ALAS_NOW @ALAS_NOW
-@ALAS_NOW @ALAS_NOW
-@ALAS_NOW @ALAS_NOW join Now"""
+    LOGO = """@NF_FILES @NF_FILES @NF_FILES @NF_FILES @NF_FILES @NF_FILES
+@NF_FILES @NF_FILES
+@NF_FILES @NF_FILES join Now"""
 
     
