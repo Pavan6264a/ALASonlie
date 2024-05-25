@@ -11,7 +11,7 @@ class script(object):
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ ᴍʏ ᴅᴇᴛᴀɪʟꜱ ]───⍟
- ‣ ᴍʏ ɴᴀᴍᴇ : ᴍɪɴᴀᴛᴏ ɴᴀᴍɪᴋᴀᴢᴇ
+ ‣ ᴍʏ ɴᴀᴍᴇ : Pavan Kumar Reddy 
  ‣ ᴍʏ ʙᴇꜱᴛ ꜰʀɪᴇɴᴅ: <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
  ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/AboutPKR'>Pavan 😁</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
