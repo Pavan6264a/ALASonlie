@@ -111,7 +111,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Dont-Know-Anythingg/ALAS">
+<a href="https://heroku.com/deploy?template=https://github.com/Pavan6264a/ALASonlie">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
